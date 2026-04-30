@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá! Me chamo Kauã Tenno, tenho 17 anos e atualmente estou cursando o 3º ano do Ensino Médio na Escola do Futuro de Goiás.<br><br>Tenho grande interesse pela área de tecnologia e estou me desenvolvendo por meio de cursos técnicos voltados para:<br><br>💻 Informática<br>🔐 Cibersegurança<br>☁️ Computação em Nuvem<br>🎨 Front-end<br>⚙️ Back-end<br><br>Busco constantemente aprender novas tecnologias e aprimorar minhas habilidades práticas, com foco em construir soluções eficientes e seguras. Estou em início de jornada na área, mas motivado a evoluir e contribuir com projetos que façam a diferença.<br><br>🚀 Sempre aberto a novos aprendizados, desafios e oportunidades na área de desenvolvimento e segurança da informação.</p>
+<p align="left">Olá! Me chamo Kauã Tenho, tenho 17 anos e atualmente estou cursando o 3º ano do Ensino Médio na Escola do Futuro de Goiás.<br><br>Tenho grande interesse pela área de tecnologia e estou me desenvolvendo por meio de cursos técnicos voltados para:<br><br>💻 Informática<br>🔐 Cibersegurança<br>☁️ Computação em Nuvem<br>🎨 Front-end<br>⚙️ Back-end<br><br>Busco constantemente aprender novas tecnologias e aprimorar minhas habilidades práticas, com foco em construir soluções eficientes e seguras. Estou em início de jornada na área, mas motivado a evoluir e contribuir com projetos que façam a diferença.<br><br>🚀 Sempre aberto a novos aprendizados, desafios e oportunidades na área de desenvolvimento e segurança da informação.</p>
 
 ###
 
